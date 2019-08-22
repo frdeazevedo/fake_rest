@@ -1,7 +1,7 @@
 {
     "news": [
 		{
-			id: 1
+			id: "1"
 			header: "Na espera por vaga, Esteban Ocon tem nome ligado à Renault e muda perfil nas redes sociais"
 			intro: "Francês trocou inscrição "Piloto de testes da Mercedes" por "Piloto de Fórmula 1" e, segundo revista, Valtteri Bottas segue como companheiro de Lewis Hamilton na próxima temporada"
 			published_date: "22/08/2019 15h00"
@@ -12,7 +12,7 @@
 			- Estou trabalhando muito no próximo ano. Eu também estou aprendendo muito na Mercedes. Quando eu voltar, serei um piloto muito mais completo. Não foi uma coisa fácil. Conversamos com o Toto e meu lado de gerência na Mercedes e eles me disseram para não ficar preocupado, que eu terei uma chance na F1 no futuro. É claro que houve fases em que ficou um pouco quieto, então você duvida um pouco, mas as discussões começaram há algum tempo - por isso estou bastante confiante de que tudo vai ficar bem, com os dedos cruzados e batendo na madeira! - disse Ocon."
 		},
 		{
-			id: 2
+			id: "2"
 			header: "Fórmula 1 divulga primeiras imagens do carro de 2021 no túnel de vento; veja vídeo e fotos!"
 			intro: "Chefe técnico da categoria, Pat Symonds reafirma desejo é proporcionar mais disputas na pista, eliminando a turbulência gerada pelos carros; modelo usado tinha escala 50% e pneus de aro 18"
 			published_date: "22/08/2019 09h16"
@@ -23,7 +23,7 @@
 			- O teste de túnel de vento que estamos fazendo é um pouco diferente do que as equipes podem fazer. As equipes concentram-se unicamente nas forças do carro, por uma variedade de atitudes enquanto movem o carro. Enquanto isso, nós naturalmente temos interesse no que essas forças são e particularmente como essas forças mudam conforme o carro se move, mas estamos ainda mais interessados ​​no que está acontecendo com o ar turbulento atrás do carro - disse Symonds."
 		},
 		{
-			id: 3
+			id: "3"
 			header: "Ferrari dispara contra processo de escolha dos pneus para a Fórmula 1 e exige mudanças para 2020"
 			intro: "Chefe Mattia Binotto diz que equipes deveriam ter influência de votos para escolher especificações dos compostos nos próximos anos, e que atuais pneus são difíceis de se trabalhar"
 			published_date: "22/08/2019 13h00"
