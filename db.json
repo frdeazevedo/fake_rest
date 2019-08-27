@@ -56,5 +56,27 @@
 			"author": "GloboEsporte.com",
 			"body": "Chefe da Ferrari, Mattia Binotto reclamou muito da forma como é definida a especificação de pneus a ser usada por todas as equipes da Fórmula 1. Para o dirigente, os mesmos 70% de aprovação necessários para uma mudança nos compostos durante a temporada deveriam ser adotados no processo de escolha da especificação adotada para todo o campeonato."
 		}
-    ]
+    ],
+	"videos": [
+		{
+			"id": "kPLERiLolz4",
+			"title": "Título do Vídeo",
+			"description": "Descrição do vídeo."
+		},
+		{
+			"id": "AU0idx-Y8W4",
+			"title": "Título do Vídeo",
+			"description": "Descrição do vídeo."
+		},
+		{
+			"id": "XzC7yOo8qJo",
+			"title": "Título do Vídeo",
+			"description": "Descrição do vídeo."
+		},
+		{
+			"id": "XEr7M1MZOio",
+			"title": "Título do Vídeo",
+			"description": "Descrição do vídeo."
+		}
+	]
 }
