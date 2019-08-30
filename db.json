@@ -78,5 +78,89 @@
 			"title": "Título do Vídeo",
 			"description": "Descrição do vídeo."
 		}
+	],
+	"driver_standings": [
+		{
+			"position": "1",
+			"first_name": "Lewis",
+			"last_name": "Hamilton",
+			"abbreviated_name": "HAM",
+			"constructor": "Mercedes",
+			"points": "250"
+		},
+		{
+			"position": "2",
+			"first_name": "Valtteri",
+			"last_name": "Bottas",
+			"abbreviated_name": "BOT",
+			"constructor": "Mercedes",
+			"points": "188"
+		},
+		{
+			"position": "3",
+			"first_name": "Max",
+			"last_name": "Verstappen",
+			"abbreviated_name": "VER",
+			"constructor": "Red Bull Racing",
+			"points": "181"
+		},
+		{
+			"position": "4",
+			"first_name": "Sebastian",
+			"last_name": "Vettel",
+			"abbreviated_name": "VET",
+			"constructor": "Ferrari",
+			"points": "156"
+		},
+		{
+			"position": "5",
+			"first_name": "Charles",
+			"last_name": "Leclerc",
+			"abbreviated_name": "LEC",
+			"constructor": "Ferrari",
+			"points": "132"
+		},
+		{
+			"position": "6",
+			"first_name": "Pierre",
+			"last_name": "Gasly",
+			"abbreviated_name": "GAS",
+			"constructor": "Red Bull Racing",
+			"points": "63"
+		},
+		{
+			"position": "7",
+			"first_name": "Carlos",
+			"last_name": "Sainz Jr.",
+			"abbreviated_name": "SAI",
+			"constructor": "McLaren",
+			"points": "58"
+		},
+		{
+			"position": "8",
+			"first_name": "Kimi",
+			"last_name": "Raikkonnen",
+			"abbreviated_name": "RAI",
+			"constructor": "Alfa Romeo",
+			"points": "31"
+		},
+		{
+			"position": "9",
+			"first_name": "Daniil",
+			"last_name": "Kvyat",
+			"abbreviated_name": "KYV",
+			"constructor": "Toro Rosso",
+			"points": "27"
+		},
+		{
+			"position": "10",
+			"first_name": "Lando",
+			"last_name": "Norris",
+			"abbreviated_name": "NOR",
+			"constructor": "McLaren",
+			"points": "24"
+		}
+	],
+	"constructor_standings": [
 	]
 }
