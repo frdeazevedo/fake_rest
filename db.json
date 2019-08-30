@@ -162,5 +162,55 @@
 		}
 	],
 	"constructor_standings": [
+		{
+			"position": "1",
+			"name": "Mercedes",
+			"points": "438"
+		},
+		{
+			"position": "2",
+			"name": "Ferrari",
+			"points": "288"
+		},
+		{
+			"position": "3",
+			"name": "Red Bull Racing Honda",
+			"points": "244"
+		},
+		{
+			"position": "4",
+			"name": "McLaren Renault",
+			"points": "82"
+		},
+		{
+			"position": "5",
+			"name": "Scuderia Toro Rosso Honda",
+			"points": "43"
+		},
+		{
+			"position": "6",
+			"name": "Renault",
+			"points": "39"
+		},
+		{
+			"position": "7",
+			"name": "Alfa Romeo Racing Ferrari",
+			"points": "32"
+		},
+		{
+			"position": "8",
+			"name": "Racing Point BWT Mercedes",
+			"points": "31"
+		},
+		{
+			"position": "9",
+			"name": "Haas Ferrari",
+			"points": "26"
+		},
+		{
+			"position": "10",
+			"name": "Williams Mercedes",
+			"points": "1"
+		}
 	]
 }
